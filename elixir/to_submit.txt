@@ -1,0 +1,3 @@
+scrabble-score
+sum-of-multiples
+pangram
